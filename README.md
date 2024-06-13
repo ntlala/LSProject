@@ -8,6 +8,16 @@ This is a React application that fetches current weather data for a specified ci
 - Display temperature, weather description, and city name.
 - Show recent searches and store them using local storage.
 
+## Technologies Used
+
+
+React
+Axios
+Material-UI
+
+APIs Used
+Weatherbit API
+
 ## Setup
 
 To run this project locally, clone the repository and install dependencies.
@@ -17,3 +27,4 @@ git clone <repository-url>
 cd project-directory
 npm install
 npm start
+
